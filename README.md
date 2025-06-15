@@ -27,10 +27,12 @@ You can install dependencies with:
 
 ```bash
 cargo add serde serde_json chrono ring
-
+```
 
 #✅ How to Run
-bash
-Copy
-Edit
+```
 cargo run
+```
+
+
+# Built with ❤ by Kiyarash
